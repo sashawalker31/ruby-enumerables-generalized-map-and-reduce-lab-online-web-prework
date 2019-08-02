@@ -5,4 +5,5 @@ end
 
 def dune 
   dune = ["paul", "gurney", "vladimir", "jessica", "chani"]
-  p dune.map {}
+  p dune.map { |n| n}
+end
