@@ -1,2 +1,2 @@
 my_own_map do 
-  map
+  map([1,2,3])
